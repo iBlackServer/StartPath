@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("测试提交一个git")
+	fmt.Println("测试提交一个分支")
 }
